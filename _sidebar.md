@@ -1,3 +1,3 @@
-- [Read Me](README)
+- [Home](README)
 - [Example Second Page](second-page)
 - [Kintypes](kintypes-page)
